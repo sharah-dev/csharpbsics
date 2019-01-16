@@ -1,0 +1,5 @@
+C:\Users\sharah\Desktop\sharah\Screenshots\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\sharah\Desktop\sharah\Screenshots\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\sharah\Desktop\sharah\Screenshots\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\sharah\Desktop\sharah\Screenshots\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\sharah\Desktop\sharah\Screenshots\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
